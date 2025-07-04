@@ -15,11 +15,10 @@ A simple and intuitive personal task management application built with React. Th
 - Responsive design for mobile and desktop
 - Clean, modern UI with basic styling
 
-**Bonus Features (if implemented):**
+**Bonus Features (implemented):**
 - Search tasks by title or description
-- Task priority levels and due dates
-- Dark mode toggle
-- Smooth animations for task actions
+- Task priority levels 
+- Task due dates
 - Task categories/tags
 
 ## 🛠 Setup Instructions
@@ -30,8 +29,7 @@ A simple and intuitive personal task management application built with React. Th
 
 ## 🧰 Technologies Used
 - React.js (with functional components and hooks)
-- CSS (or SCSS/styled-components for styling)
-- [Any other libraries you used, e.g., date-fns for date formatting, classnames for conditional classes]
+- CSS 
 
-## 🔗 Live Demo
-[Link to deployed application]
+## 🔗 Live Demo (Vercel Link)
+[https://task-tracker-six-beta.vercel.app]
