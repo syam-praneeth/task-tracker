@@ -24,10 +24,4 @@ dist-ssr
 *.sln
 *.sw?
 
-eslint.config.js
-package-lock.json
-yarn.lock
-pnpm-lock.yaml
-lerna-debug.log
-vite.config.js
 README.md
