@@ -32,4 +32,4 @@ A simple and intuitive personal task management application built with React. Th
 - CSS 
 
 ## 🔗 Live Demo (Vercel Link)
-[https://task-tracker-six-beta.vercel.app]
+https://task-tracker-six-beta.vercel.app
